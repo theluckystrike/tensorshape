@@ -2,6 +2,8 @@
 // layers: output dims, parameter counts, and sequence padding, the same
 // arithmetic you need when you build and debug tensor models with
 // https://heytensor.com/.
+//
+// The heytensor.com page https://heytensor.com/blog/ shows the same reasoning on live inputs.
 package tensorshape
 
 // ConvOut returns the output length of a 1-D convolution.
